@@ -1,4 +1,4 @@
-#Sound art project
+# Sound art project
 
 The webpage is contained within the folder public_html this is the webpage root folder. The files `ART.txt`, `jquery.min.js`, `SculptureSound.m4a`, and `SculptureSound.wav` are not used currently in the project.
 
