@@ -1,8 +1,9 @@
 #!/usr/bin/env python
-import RPi.GPIO as GPIO
+
+import RPi.GPIO as GPIO #needed for GPIO pins on PI
 import time #needed for sleep
 import os   #needed for os calls
-from multiprocessing import Process
+from multiprocessing import Process #needed for running chrome on seperate process
 from random import *
 
 
