@@ -41,7 +41,8 @@ def buttonPressHandler():
         time.sleep(runTime)
         os.system("kill $(ps aux | grep '[c]hromium-browser' | awk '{print $2}')")
         p.join()
-buttonPressHandler()
+        
+#buttonPressHandler()
 
 #Run loop
 while True:
