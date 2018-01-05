@@ -1,5 +1,8 @@
 #!/bin/sh
 
+#navigate to folder
+cd /home/pi/soundArtJS
+
 #sleep 1 min to wait for an internet connection
 sleep 1m
 
@@ -7,4 +10,4 @@ sleep 1m
 git pull
 
 #RUN THE PROGRAM!!! :D
-python3 /home/pi/soundArtJS/bathroomNoise.py
+python3 bathroomNoise.py
