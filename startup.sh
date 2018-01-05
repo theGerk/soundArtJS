@@ -1,5 +1,6 @@
 #!/bin/sh
 
+#sleep 20 seconds to wait for interent connection
 sleep 20
 
 #navigate to folder
