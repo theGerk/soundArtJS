@@ -1,6 +1,5 @@
 #!/bin/sh
 
-sudo apt-get update
-sudo apt-get upgrade
 git pull
 
+echo "Updated project"
