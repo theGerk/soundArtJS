@@ -1,4 +1,4 @@
 #!/bin/sh
 
 git pull
-./home/pi/soundArtJS/bathroomNoise.py
+python3 /home/pi/soundArtJS/bathroomNoise.py
