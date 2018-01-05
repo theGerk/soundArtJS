@@ -1,7 +1,7 @@
 #!/bin/sh
 
-#sleep 20 seconds to wait for an internet connection
-sleep 20s
+#sleep 1 min to wait for an internet connection
+sleep 1m
 
 #pull any updates
 git pull
