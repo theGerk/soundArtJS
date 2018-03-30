@@ -16,7 +16,7 @@ fileName = "public_html/index.html"
 cycleTime = 358 * 4 * 20 / 1000
 cycles = 2
 runTime = cycles * cycleTime
-rickChance = 128
+rickChance = 1024
 #print(runTime)
 
 def otherProcess():
